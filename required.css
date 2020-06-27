@@ -27,9 +27,9 @@ body {
 	font-family: monospace;
 	text-align:center;
 	margin-left: 25%;
-	
+
 	display: inline-flex;
-	
+
 	flex-direction: column;
 	/*
 	/*justify-content: center; */
@@ -48,18 +48,35 @@ body {
 
 .mainHeader-content {
 	margin-left: 50px;
-	display: inline-block;	
+	display: inline-block;
+	float: right;
 }
 
 
 .innerHeader {
-	display: inline-block; 
+	display: inline-block;
 	/*margin: 0 auto; */
 	padding: 3px;
 	color: #162b5d;
 	width: 50%;
 }
 
+.resume {
+
+}
+
 .work-ex {
 	float:left;
+}
+
+.company-list, .self-skills, .list_of_hobbies {
+	text-align: left;
+	float: left;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.self-skills {
+	display: inline-block;
+
 }

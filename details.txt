@@ -1,0 +1,5 @@
+Built an application focused on delegating shifts and support tasks in a team depending on leaves and priorities as this task was handled manually earlier. I designed and developed the application.
+Was responsible for integrating  multiple features in the existing credit card application and it’s end to end delivery.
+Was responsible for frequent releases and deployment of projects, fixes and regular patching in the production environment using G3, Nexus, Jekins and RTC.
+
+
